@@ -45,10 +45,10 @@ SecureVault/
 
 The user logs into the system using a username and password.
 
-These passwords are INSIDE of the source code and can be changed to YOUR liking.
+These passwords are INSIDE of the source code and can be changed to YOUR liking through "auth.py".
 Current USERNAME and PASSWORD are:
-admin
-admin123
+Username: "admin"
+Password: "admin123"
 
 Passwords are hashed using SHA-256 before verification.
 
